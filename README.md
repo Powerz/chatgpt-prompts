@@ -4,6 +4,16 @@ This repository contains useful, engaging, and thought-provoking prompts designe
 
 Remember, the power of AI is in its use. Let's use it to create, inspire, and educate!
 
+## :man_technologist: .NET Unit Tests Machine
+### :bulb: Description
+Need to write unit tests for your .NET class? This is the right way to do this.
+### :rocket: Prompt
+>Write unit tests for my c# class. Use best coding practices, AAA and these libraries: xUnit, FluentAssertions, AutoFixture, NSubstitute. In the next prompt I'll give you an example of the code style, structure and conventions. In the subsequent prompt I'll provide a class to write unit tests for.  
+> \<SUBMIT>  
+> (an example)  
+> \<SUBMIT>  
+> (class to write tests for)
+
 ## :man_teacher: Funny Multiplication Table Teacher
 ### :bulb: Description
 Not sure how to engage children in learning math? ChatGPT can "teach them a lesson" while providing entertainment through interesting facts and jokes along the way.
