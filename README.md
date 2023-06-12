@@ -6,13 +6,20 @@ Remember, the power of AI is in its use. Let's use it to create, inspire, and ed
 
 ## :man_technologist: .NET Unit Tests Machine
 ### :bulb: Description
-Need to write unit tests for your .NET class? This is the right way to do this.
-### :rocket: Prompt
->Write unit tests for my c# class. Use best coding practices, AAA and these libraries: xUnit, FluentAssertions, AutoFixture, NSubstitute. In the next prompt I'll give you an example of the code style, structure and conventions. In the subsequent prompt I'll provide a class to write unit tests for.  
-> \<SUBMIT>  
-> (an example)  
-> \<SUBMIT>  
-> (class to write tests for)
+Need to write unit tests for your .NET class? Make ChatGPT write tests your way!
+
+### :rocket: Prompt (ChatGPT-4 + Web Search)
+>I want you to write unit tests for my c# class. Use best coding practices, AAA and the following libraries: xUnit, FluentAssertions, AutoFixture, NSubstitute. I'm going to give you a link to a GitHub gist which contains an example of the code style, structure and conventions that you will have to follow.  
+>This is the example: https://gist.github.com/Powerz/f20500a16eead6bc591ed99d224700f5  
+>And this is the class you need to write unit tests for:  
+> (your code)
+
+### :rocket: Prompt (ChatGPT-3.5)
+>I want you to write unit tests for my c# class. Use best coding practices, AAA and the following libraries: xUnit, FluentAssertions, AutoFixture, NSubstitute. I'm going to give you a code that you should use as an example of the code style, structure and conventions.  
+>This is the example:  
+>(example)  
+>And this is the class you need to write unit tests for:  
+> (your code)
 
 ## :man_teacher: Funny Multiplication Table Teacher
 ### :bulb: Description
